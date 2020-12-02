@@ -1,0 +1,38 @@
+# Corona-web-Html
+É um site que simula o desenvolvimento desse vírus em escala digital...
+
+<!DOCTYPE html>
+<html>
+<head>
+   
+   
+   <title></title>
+   
+   </head>  
+<body bgcolor= "#DCDCDC">
+
+
+
+
+
+
+  
+     <h1><font color= "#00CED1"> Corona-Virus </font> </h1>
+           <hr>
+<font size="20px"font face = “Verdana”> Oque é? </font> <br> A pandemia do corona vírus começou no final do ano de 2019 na China.<br><pr>O vírus que causa a COVID-19 é transmitido principalmente <br> por meio de gotículas geradas quando uma pessoa infectada tosse, espirra ou exala.<br>Essas gotículas são muito pesadas para permanecerem no ar<br> e são rapidamente depositadas em pisos ou superfícies</pr> 
+ 
+<ul>
+ <br><a href="https://coronavirus.saude.gov.br/"target="_blank">Saiba mais </a>
+</ul> 
+
+<img src= “\kwaaii\kwaaii.jpg”>
+
+
+</body> 
+  
+  
+  
+  
+  
+</html>
+
