@@ -20,13 +20,73 @@
      <h1><font color= "#00CED1"> Corona-Virus </font> </h1>
            <hr>
 <font size="20px"font face = “Verdana”> Oque é? </font> <br> A pandemia do corona vírus começou no final do ano de 2019 na China.<br><pr>O vírus que causa a COVID-19 é transmitido principalmente <br> por meio de gotículas geradas quando uma pessoa infectada tosse, espirra ou exala.<br>Essas gotículas são muito pesadas para permanecerem no ar<br> e são rapidamente depositadas em pisos ou superfícies</pr> 
- 
+
 <ul>
  <br><a href="https://coronavirus.saude.gov.br/"target="_blank">Saiba mais </a>
 </ul> 
 
-<img src= “\kwaaii\kwaaii.jpg”>
+<br><font size="10Px"font face = “Verdana”>Dados</font> <br>
 
+
+<table border="1">
+  <tr>
+   <th> <font color= "#00CED1">Meses (1caso) </font>
+   </th>
+   
+   
+   <tr>
+   <td>Dezembro</td>
+   </tr>
+    
+   <tr>
+   <td>Janeiro</td>
+   </tr>
+   
+   <tr>
+   <td>Feveiro</td>
+   </tr>
+   
+   <tr>
+   <td>Março</td>
+   </tr>
+   
+   <tr>
+   <td>Abril</td>
+   </tr>
+   
+   <tr>
+   <td>Maio</td>
+   </tr>
+   
+   <tr>
+   <td>Junho</td>
+   </tr>
+   
+   <tr>
+   <td>Julho</td>
+   </tr>
+   
+   <tr>
+   <td>Agosto</td>
+   </tr>
+   
+   <tr>
+   <td>Setembro</td>
+   </tr>
+   
+   <tr>
+   <td>Outubro</td>
+   </tr>
+   
+   <tr>
+   <td>Novembro</td>
+   </tr>
+   
+   <tr>
+   <td>Dezembro</td>
+   </tr>  
+    
+</table>
 
 </body> 
   
@@ -35,4 +95,3 @@
   
   
 </html>
-
